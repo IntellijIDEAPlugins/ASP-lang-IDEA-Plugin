@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="IdProvider" IDEtalkID="68CEB921D488C21DE938EECD69B11DF1" />
+  <component name="ProjectDictionaryState">
+    <dictionary name="Administrator" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectKey">
+    <option name="state" value="project://93f6c478-c94b-4a7e-880b-2980a3a9f747" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="IDEA IU-129.239" project-jdk-type="IDEA JDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
+
